@@ -1,0 +1,9 @@
+C:\Users\Mier\Desktop\语法分析\Recursive descent parser gzy\Recursive descent parser gzy\obj\Debug\Recursive_descent_parser_gzy.Properties.Resources.resources
+C:\Users\Mier\Desktop\语法分析\Recursive descent parser gzy\Recursive descent parser gzy\obj\Debug\Recursive descent parser gzy.csproj.GenerateResource.cache
+C:\Users\Mier\Desktop\语法分析\Recursive descent parser gzy\Recursive descent parser gzy\obj\Debug\Recursive descent parser gzy.csproj.CoreCompileInputs.cache
+C:\Users\Mier\Desktop\语法分析\Recursive descent parser gzy\Recursive descent parser gzy\bin\Debug\Recursive descent parser gzy.exe.config
+C:\Users\Mier\Desktop\语法分析\Recursive descent parser gzy\Recursive descent parser gzy\bin\Debug\Recursive descent parser gzy.exe
+C:\Users\Mier\Desktop\语法分析\Recursive descent parser gzy\Recursive descent parser gzy\bin\Debug\Recursive descent parser gzy.pdb
+C:\Users\Mier\Desktop\语法分析\Recursive descent parser gzy\Recursive descent parser gzy\obj\Debug\Recursive descent parser gzy.exe
+C:\Users\Mier\Desktop\语法分析\Recursive descent parser gzy\Recursive descent parser gzy\obj\Debug\Recursive descent parser gzy.pdb
+C:\Users\Mier\Desktop\语法分析\Recursive descent parser gzy\Recursive descent parser gzy\obj\Debug\Recursive_descent_parser_gzy.递归下降语法分析器.resources
